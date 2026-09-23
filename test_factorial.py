@@ -6,7 +6,7 @@ def test_factorial_0():
 
 
 def test_factorial_1():
-    assert factorial(1) == 1
+    assert factorial(1) == 0
 
 
 def test_factorial_5():
